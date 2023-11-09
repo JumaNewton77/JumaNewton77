@@ -1,0 +1,11 @@
+-  Hi, I’m @JumaNewton77
+-  I'm a Web-developer, Database Desgner and Programmer - C++, C#, Python PHP.
+-  I’m currently learning and working on Projects on AI and Deep learning, Full stack deveper and programing with data stuctures and Algorithims and new languages.
+-  I’m looking to collaborate on 
+-  Reach me through:Gmail: jumanewton73@gmail.com /Outlook: jumanewton73@outlook.com / CALL/SMS/Whatsapp: +254790862982 :
+-  Social Media Handles: Tweeter: https://twitter.com/.... / Facebook: https://www.facebook.com/kuyutimikhy.jnewton
+
+<!---
+JumaNewton77/JumaNewton77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
